@@ -1,4 +1,4 @@
-print("Vartika Joshi")
+
 
 getwd()
 setwd("/Users/vj/Documents/ALY 6010 (Prob and Intro to Stats)/Project")
