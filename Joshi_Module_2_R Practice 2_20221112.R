@@ -72,6 +72,7 @@ qplot(data=student_data, x=reading.score, y=writing.score,colour=gender, size=I(
 qplot(data=student_data, x=math.score, y=writing.score,colour=parental.level.of.education, size=I(5), alpha=I(0.6), main="Math score vs writing score")
 
 #Reading score vs writing score - parental level of education
+
 qplot(data=student_data, x=reading.score, y=writing.score,colour=parental.level.of.education, size=I(5), alpha=I(0.6), main="Reading score vs writing score")
 
 
